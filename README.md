@@ -14,8 +14,11 @@
 
 * Repeat....
 
-In this project i applied many topics 
+#### In this project i applied many topics 
 * Flutter(I used it as freamework for  my app).
 * Firebase(I used it as a  backend).
 * Clean architecture(I used it as an architecture for my app).
 * Bloc(I used bloc as a state managment and design pattern with clean architecture).
+
+
+    Tip: there are many files has been deleted from the project for the security like some images and google_services.json file.
